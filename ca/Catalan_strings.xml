@@ -3,82 +3,82 @@
 <resources>
     <!-- App -->
     <string name="app_name">FOSS Browser</string>
-    <string name="app_ok">OK</string>
-    <string name="app_cancel">Annuler</string>
-    <string name="list_empty">Liste actuelle vide</string>
-    <string name="album_title_bookmarks">Signets</string>
-    <string name="album_title_history">Historique</string>
-    <string name="album_title_home">Accueil</string>
-    <string name="album_title_files">Fichiers</string>
+    <string name="app_ok">ОК</string>
+    <string name="app_cancel">Скасувати</string>
+    <string name="list_empty">Поточний список порожній</string>
+    <string name="album_title_bookmarks">Закладка</string>
+    <string name="album_title_history">Історія</string>
+    <string name="album_title_home">Головна</string>
+    <string name="album_title_files">Файл</string>
     <string name="album_untitled"></string>
-    <string name="notification_content_holderTitle">Onglets ouverts …</string>
-    <string name="notification_content_holder">… Cliquez pour voir les pages</string>
-    <string name="search_hint">Chercher</string>
-    <string name="color_red">Rouge</string>
-    <string name="color_pink">Rose</string>
-    <string name="color_purple">Violet</string>
-    <string name="color_blue">Bleu</string>
-    <string name="color_teal">Bleu-vert foncé</string>
-    <string name="color_green">Vert</string>
-    <string name="color_lime">Citron vert</string>
-    <string name="color_yellow">Jaune</string>
-    <string name="color_orange">Orange</string>
-    <string name="color_brown">Marron</string>
+    <string name="notification_content_holderTitle">Відкрити вкладки …</string>
+    <string name="notification_content_holder">… Натисніть, щоб переглянути сторінки</string>
+    <string name="search_hint">Пошук</string>
+    <string name="color_red">Червоний</string>
+    <string name="color_pink">Рожевий</string>
+    <string name="color_purple">Фіолетовий</string>
+    <string name="color_blue">Синій</string>
+    <string name="color_teal">Бірюзовий</string>
+    <string name="color_green">Зелений</string>
+    <string name="color_lime">Лайм</string>
+    <string name="color_yellow">Жовтий</string>
+    <string name="color_orange">Помаранчевий</string>
+    <string name="color_brown">Коричневий</string>
     <string name="color_grey">Grey</string>
     <!-- Menu -->
-    <string name="main_menu_tabPreview">Aperçu de l\'onglet ouvert</string>
-    <string name="main_menu_new_tab">Nouvel onglet (arrière-plan)</string>
-    <string name="main_menu_new_tabOpen">Nouvel onglet (premier plan)</string>
-    <string name="main_omnibox_input_hint">Rechercher ou taper une URL</string>
-    <string name="menu_open_with">Ouvrir le lien avec …</string>
-    <string name="menu_share">Partager</string>
-    <string name="menu_quit">Quitter</string>
-    <string name="menu_delete">Effacer</string>
-    <string name="menu_delete_list">Supprimer la liste</string>
-    <string name="menu_edit">Editer</string>
-    <string name="menu_closeTab">Fermer l\'onglet</string>
-    <string name="menu_download">Ouvrir les téléchargements</string>
-    <string name="menu_fav">Définir comme site de démarrage</string>
+    <string name="main_menu_tabPreview">Попередній перегляд вкладок</string>
+    <string name="main_menu_new_tab">Нова вкладка (фон)</string>
+    <string name="main_menu_new_tabOpen">Нова вкладка</string>
+    <string name="main_omnibox_input_hint">Пошук або введення URL-адреси</string>
+    <string name="menu_open_with">Відкрити посилання з …</string>
+    <string name="menu_share">Загальний доступ</string>
+    <string name="menu_quit">Вихід</string>
+    <string name="menu_delete">Видалити</string>
+    <string name="menu_delete_list">Очистити дані</string>
+    <string name="menu_edit">Змінити</string>
+    <string name="menu_closeTab">Закрити вкладку</string>
+    <string name="menu_download">Відкрити завантаження</string>
+    <string name="menu_fav">Встановити улюбленим</string>
     <string name="menu_sc">Shortcut on home screen</string>
-    <string name="menu_sort">Trier par …</string>
-    <string name="menu_filter">Filtrer par …</string>
-    <string name="menu_blank">Site vierge</string>
-    <string name="menu_share_screenshot">Partager capture d’écran</string>
-    <string name="menu_share_link">Partager le lien</string>
-    <string name="menu_save_screenshot">Enregistrer capture d’écran</string>
-    <string name="menu_save_home">Enregistrer à l\'Accueil</string>
-    <string name="menu_save_bookmark">Enregistrer comme signet</string>
-    <string name="menu_save_as">Enregistrer sous …</string>
-    <string name="menu_save_pdf">Enregistrer en PDF</string>
-    <string name="menu_share_pdf">Partager PDF</string>
-    <string name="menu_share_pdfToast">Achevée. Ouvrir le gest. de fichiers pour partager?</string>
-    <string name="menu_other_searchSite">Rechercher sur le site</string>
-    <string name="menu_other_help">Aide</string>
+    <string name="menu_sort">Сортувати за…</string>
+    <string name="menu_filter">Фільтр за кольором…</string>
+    <string name="menu_blank">Blank start site</string>
+    <string name="menu_share_screenshot">Поділитися скріншотом</string>
+    <string name="menu_share_link">Поділитися посиланням</string>
+    <string name="menu_save_screenshot">Зберегти скріншот</string>
+    <string name="menu_save_home">Зберегти на головній</string>
+    <string name="menu_save_bookmark">Зберегти як закладку</string>
+    <string name="menu_save_as">Зберегти як …</string>
+    <string name="menu_save_pdf">Зберегти в PDF</string>
+    <string name="menu_share_pdf">Поділитися PDF</string>
+    <string name="menu_share_pdfToast">Завершений. Відкрити файловий менеджер для спільного використання?</string>
+    <string name="menu_other_searchSite">Пошук по сайту</string>
+    <string name="menu_other_help">Допомога</string>
     <!-- Dialog -->
-    <string name="dialog_toggle_reload">Recharger</string>
-    <string name="dialog_title_hint">Titre:</string>
+    <string name="dialog_toggle_reload">Reload</string>
+    <string name="dialog_title_hint">Заголовок:</string>
     <string name="dialog_url_hint">Url:</string>
-    <string name="dialog_extension_hint">Extension (par exemple: \".jpg\"):</string>
-    <string name="dialog_sign_in_username">Nom d\'utilisateur</string>
-    <string name="dialog_sign_in_password">Mot de passe</string>
-    <string name="dialog_button_custom">Personnaliser</string>
-    <string name="dialog_title_download">Voulez-vous télécharger le fichier?</string>
-    <string name="dialog_title_sign_in">Se connecter</string>
-    <string name="dialog_content_resubmission">Souhaitez-vous soumettre à nouveau vos données?</string>
-    <string name="dialog_content_ssl_error">Le certificat du site n\'est pas fiable. Continuez quand même?</string>
-    <string name="dialog_sortName">Trier par nom</string>
-    <string name="dialog_sortIcon">Trier par icône</string>
+    <string name="dialog_extension_hint">Розширення (наприклад: \".jpg\"):</string>
+    <string name="dialog_sign_in_username">Ім\'я користувача</string>
+    <string name="dialog_sign_in_password">Пароль</string>
+    <string name="dialog_button_custom">Вручну</string>
+    <string name="dialog_title_download">Хочете завантажити файл?</string>
+    <string name="dialog_title_sign_in">Увійти</string>
+    <string name="dialog_content_resubmission">Хочете повторно відправити свої дані?</string>
+    <string name="dialog_content_ssl_error">Сертифікат сайту не є довіреним. Все одно продовжити?</string>
+    <string name="dialog_sortName">Сортувати за назвою</string>
+    <string name="dialog_sortIcon">Сортувати за значками</string>
     <string name="dialog_sortDate">Sort by date</string>
     <!-- Settings -->
-    <string name="setting_label">Réglages</string>
+    <string name="setting_label">Налаштування</string>
     <!-- Browser setting -->
-    <string name="setting_title_browser">Paramètres du navigateur</string>
-    <string name="setting_title_clear_control">Contrôle des données</string>
-    <string name="setting_title_start_control">Contrôle du démarrage</string>
-    <string name="setting_summary_clear_control">Effacer les données du navigateur ou décider quelles données seront effacées en quittant l\'application.</string>
-    <string name="setting_summary_start_control">Décider quels composants du navigateur seront activés au démarrage.</string>
-    <string name="setting_title_search_engine">Moteur de recherche</string>
-    <string name="setting_summary_search_engine">Ici, vous pouvez choisir votre moteur de recherche préféré ou définir un moteur personnalisé.</string>
+    <string name="setting_title_browser">Налаштування браузера</string>
+    <string name="setting_title_clear_control">Контроль даних</string>
+    <string name="setting_title_start_control">Управління запуском</string>
+    <string name="setting_summary_clear_control">Очистіть дані свого браузера або визначте, які дані будуть видалені при виході з програми.</string>
+    <string name="setting_summary_start_control">Визначте, які компоненти браузера будуть увімкнені при запуску.</string>
+    <string name="setting_title_search_engine">Пошукова система</string>
+    <string name="setting_summary_search_engine">Тут ви можете вибрати бажану пошукову систему або встановити свою.</string>
     <string name="setting_summary_search_engine_google">Google</string>
     <string name="setting_summary_search_engine_duckduckgo">DuckDuckGo</string>
     <string name="setting_summary_search_engine_startpage">StartPage</string>
@@ -88,200 +88,184 @@
     <string name="setting_summary_search_engine_searx">Searx</string>
     <string name="setting_summary_search_engine_qwant">Qwant</string>
     <string name="setting_summary_search_engine_ecosia">Ecosia</string>
-    <string name="setting_title_inverted">Couleurs inversées</string>
-    <string name="setting_summary_inverted">Si coché, le contenu sera rendu dans un mode d\'échelle de gris inversé. Ce
-    est une sorte de \"mode nuit\".</string>
-    <string name="setting_title_font">Taille de la police</string>
-    <string name="setting_summary_font">Modifier la taille de la police pour l’affichage des sites Web.</string>
-    <string name="setting_title_remote">Contenu à distance</string>
-    <string name="setting_summary_remote">Activer le contenu distant, qui ne provient pas directement du site Web que vous visitez.
-        Désactiver cela est plus sécurisé, plus rapide et enregistre le volume de données. Mais certains contenus ne seront plus affichés.</string>
-    <string name="setting_title_save_data">Demande \'Enregistrer les données\'</string>
-    <string name="setting_summary_save_data">Indiquez aux sites Web que vous préférez enregistrer les données. Les sites Web pris en charge se chargeront plus rapidement.</string>
+    <string name="setting_title_inverted">Інвертовані кольори</string>
+    <string name="setting_summary_inverted">Якщо прапорець встановлений, вміст буде відображатися в режимі інвертованої сірої шкали. Це свого роду \"нічний режим\".</string>
+    <string name="setting_title_font">Розмір шрифту</string>
+    <string name="setting_summary_font">Змініть розмір шрифту для відображення веб-сайтів.</string>
+    <string name="setting_title_remote">Віддалений контент</string>
+    <string name="setting_summary_remote">Увімкніть віддалений вміст, який не знаходиться безпосередньо на веб-сайті, який ви відвідуєте. Відключення цього є більш безпечним і економить обсяг даних. Але деякий вміст більше не буде відображатися.</string>
+    <string name="setting_title_save_data">Request \'Save Data\'</string>
+    <string name="setting_summary_save_data">Tell websites that you would prefer to save data. Supported websites will load faster.</string>
     <!-- Browser start -->
-    <string name="setting_title_images">Images</string>
-    <string name="setting_summary_images">Activer les images réseau. La désactivation pourrait être utile pour enregistrer les données mobiles et pour charger
-    les sites Web plus rapidement.</string>
-    <string name="setting_title_cookie">Cookies</string>
-    <string name="setting_summary_cookie_delete">Si cette option est activée, tous les cookies seront supprimés. Aussi les cookies de sites de confiance.</string>
-    <string name="setting_summary_cookie">Activer les cookies. Les cookies sont de petits fichiers texte, qui sont stockés sur votre appareil. Les sites Internet
-    utilisent par exemple pour stocker les paramètres utilisateur (par exemple, les paramètres de recherche). Mais ils pourraient aussi être utilisés pour collecter des infos personnelles
-        ou données d\'utilisateur. Les cookies tiers (ils collectent les données des utilisateurs pour la publicité) sont toujours désactivés.</string>
-    <string name="setting_title_whitelistCookie">Cookie liste blanche</string>
-    <string name="setting_summary_whitelistCookie">Si vous désactivez les cookies, vous pouvez utiliser cette liste blanche pour autoriser les sites que vous
-        faites confiance à sauvegarder les cookies.</string>
+    <string name="setting_title_images">Зображення</string>
+    <string name="setting_summary_images">Увімкнути відображення зображень. Вимкнення може бути корисно для збереження мобільних даних і прискорення завантаження сайтів.</string>
+    <string name="setting_title_cookie">Куки</string>
+    <string name="setting_summary_cookie_delete">Якщо увімкнено, всі cookies будуть видалені. Також файли cookie надійних веб-сайтів.</string>
+    <string name="setting_summary_cookie">Увімкнути файли cookie. Файли cookie являють собою невеликі текстові файли, які зберігаються на вашому пристрої. Веб-сайти використовують їх, наприклад, для зберігання користувацьких налаштувань (наприклад, налаштувань пошуку). Але вони також можуть бути використані для збору особистих даних користувача. Сторонні файли cookie (вони збирають дані користувача для реклами) завжди вимкнені.</string>
+    <string name="setting_title_whitelistCookie">Білий список куки</string>
+    <string name="setting_summary_whitelistCookie">Якщо ви вимкнете Cookies, Ви можете використовувати цей білий список, щоб дозволити сайтам, яким ви довіряєте, використовувати збережені файли cookie.</string>
     <string name="setting_title_javascript">JavaScript</string>
-    <string name="setting_summary_javascript">Activer JavaScript. De nombreux sites Web ont besoin de JavaScript pour fonctionner (menus,
-        chargement et affichage d\'images, …). Mais ils sont aussi un risque et peuvent être utilisés pour des attaques.</string>
-    <string name="setting_title_whitelistJS">JavaScript liste blanche</string>
-    <string name="setting_summary_whitelistJS">Si vous désactivez JavaScript, vous pouvez utiliser cette liste blanche pour autoriser les sites de confiance 
-        à utiliser javascript.</string>
+    <string name="setting_summary_javascript">Увімкнути JavaScript. Багатьом веб-сайтам потрібен JavaScript для їх функціональності (меню, завантаження і відображення зображень). Але вони також являють собою ризик і можуть бути використані для атак.</string>
+    <string name="setting_title_whitelistJS">Білий список JavaScript</string>
+    <string name="setting_summary_whitelistJS">Якщо ви вимкнете JavaScript, ви можете використовувати цей білий список, щоб дозволити сайтам, яким ви довіряєте використовувати javascript.</string>
     <string name="setting_title_adblock">AdBlock</string>
-    <string name="setting_summary_adblock">Activez AdBlock pour bloquer les pubs ennuyeuses. Les sites se chargent plus rapidement quand activé.</string>
-    <string name="setting_title_whitelist">AdBlock liste blanche</string>
-    <string name="setting_summary_whitelist">Autoriser ces sites à diffuser des pubs. Certains sites ne fonctionnent pas lorsque AdBlock est activé.</string>
-    <string name="setting_title_location">Location</string>
-    <string name="setting_summary_location">Autoriser les sites Web à accéder à votre emplacement. Quelques sites web (comme Google maps pour la navigation)
-        besoin d\'être activé.</string>
-    <string name="setting_title_history">Historique</string>
-    <string name="setting_summary_history">Sauvegarder l\'historique des sites visités.</string>
+    <string name="setting_summary_adblock">Увімкніть AdBlock, щоб заблокувати дратівливу рекламу. Сайти завантажуються швидше при включенні.</string>
+    <string name="setting_title_whitelist">Білий список AdBlock</string>
+    <string name="setting_summary_whitelist">Дозволити цим сайтам показувати рекламу. Деякі сайти не працюють, коли AdBlock увімкнений.</string>
+    <string name="setting_title_location">Місце розташування</string>
+    <string name="setting_summary_location">Дозволити веб-сайтам доступ до вашого місця розташування. Деякі веб-сайти (наприклад, Карти Google) потребують цього.</string>
+    <string name="setting_title_history">Історія</string>
+    <string name="setting_summary_history">Збережіть історію відвідуваних веб-сайтів.</string>
     <!-- Browser clear -->
-    <string name="clear_summary">Tous les fichiers seront exportés au format \"Documents\" dossier de votre sd-card. Chaque exportation écrasera la
-        plus ancienne version. Pour restaurer il doit y avoir un fichier avec le bon nom dans le répertoire.</string>
-    <string name="clear_menu_done_all">Tout fini</string>
-    <string name="clear_title_quit">Effacer à la fermeture</string>
-    <string name="clear_summary_quit">Chaque fois que vous quittez \"FOSS Browser\" toutes les données cochées ci-dessus seront supprimées.</string>
-    <string name="clear_title_cache">Vider le cache</string>
-    <string name="clear_title_cookie">Effacer les cookies</string>
-    <string name="clear_title_history">Effacer l’historique</string>
-    <string name="clear_title_indexedDB">Supprimer \"bases de données indexées\" et \"stockage local des sites web\"</string>
-    <string name="clear_title_deleteDatabase">Supprimer base de données</string>
-    <string name="clear_summary_deleteDatabase">Supprimer toute la base de données (Page d\'accueil, signets, historique et toutes les listes blanches).</string>
+    <string name="clear_summary">Всі файли будуть експортовані в каталог \"Документи\" вашої SD-карти. Кожен експорт буде перезаписувати старий. Для відновлення в каталозі повинен бути файл з правильним ім\'ям.</string>
+    <string name="clear_menu_done_all">Все зроблено</string>
+    <string name="clear_title_quit">Очистити при виході з програми</string>
+    <string name="clear_summary_quit">Кожен раз при виході з \"Foss Browser\" всі перераховані вище перевірені дані будуть видалятися.</string>
+    <string name="clear_title_cache">Очистити кеш</string>
+    <string name="clear_title_cookie">Очистити куки</string>
+    <string name="clear_title_history">Очистити історію</string>
+    <string name="clear_title_indexedDB">Очистити \"індексовані бази даних\" і \"локальне сховище webview\"</string>
+    <string name="clear_title_deleteDatabase">Видалити базу даних</string>
+    <string name="clear_summary_deleteDatabase">Видалити всю базу даних (стартову сторінку, закладки, історію і всі білі списки).</string>
     <!-- App setting -->
-    <string name="setting_title_app">Paramètres</string>
-    <string name="setting_title_ui">Comportement/UI</string>
-    <string name="setting_title_data">Sauvegarde</string>
-    <string name="setting_summary_ui">Changez le comportement et l\'interface utilisateur de l\'application en fonction de vos préférences.</string>
-    <string name="setting_summary_data">Importer et exporter plusieurs données d\'applications (listes blanches, signets).</string>
+    <string name="setting_title_app">Налаштування</string>
+    <string name="setting_title_ui">Поведінка та інтерфейс</string>
+    <string name="setting_title_data">Резервне копіювання</string>
+    <string name="setting_summary_ui">Змініть поведінку та інтерфейс програми відповідно до ваших уподобань.</string>
+    <string name="setting_summary_data">Імпортуйте та експортуйте дані програми (білі списки, закладки).</string>
     <string name="setting_filter">Bookmark filter</string>
     <string name="setting_filter_summary">To show the filter dialog long press on the bookmark icon in the overview. Decide which
         filters you will use.</string>
     <!-- App behavior -->
-    <string name="setting_title_hideToolbar">Cacher barre d\'outils</string>
-    <string name="setting_summary_hide">Utiliser la totalité de l\'écran lorsque vous visitez des sites web. Si vous appuyez sur le bouton Précédent, 
-        vous quitterez le mode plein écran..</string>
-    <string name="setting_title_background">Ouvrir les liens</string>
-    <string name="setting_summary_background">Afficher une notification et ouvrir les liens en arrière-plan. Si désactivé, les liens s\'ouvriront 
-    immédiatement.</string>
-    <string name="setting_title_themeDark">Thème clair</string>
-    <string name="setting_summary_themeDark">Tu aimes ça un peu plus brillant? Fais-le!</string>
+    <string name="setting_title_hideToolbar">Приховати Панель інструментів</string>
+    <string name="setting_summary_hide">Використовуйте весь екран при прокручуванні сайтів. Якщо ви натиснете кнопку \"Назад\", то покинете повноекранний режим.</string>
+    <string name="setting_title_background">Відкрити посилання</string>
+    <string name="setting_summary_background">Відображати повідомлення і відкривати посилання в тлі. Якщо відключені посилання будуть відкриті негайно.</string>
+    <string name="setting_title_themeDark">Світла тема</string>
+    <string name="setting_summary_themeDark">Вам подобається трохи яскравіше? Зробіть це!</string>
     <string name="setting_title_themeColor">Color UI</string>
     <string name="setting_summary_themeColor">Tint some elements from the UI to match the website colors.</string>
     <string name="setting_title_theme">UI</string>
     <string name="setting_title_behavior">Behavior</string>
     <string name="setting_summary_toolbarShow">Pressing back will make the toolbar visible, before going back in history.</string>
     <string name="setting_title_toolbarShow">First toolbar</string>
-    <string name="setting_title_nav">Bouton de navigation</string>
-    <string name="setting_title_nav_pos">Position</string>
-    <string name="setting_summary_nav_pos">Décidez où le \"Bouton de navigation\" sera placé.</string>
-    <string name="setting_summary_nav_pos_right">Droite</string>
-    <string name="setting_summary_nav_pos_left">Gauche</string>
-    <string name="setting_summary_nav_pos_center">Milieu</string>
-    <string name="setting_title_nav_show">Cacher</string>
-    <string name="setting_summary_nav_show">Masquer le \"Bouton de navigation\" quand la barre d\'outils est affichée.</string>
-    <string name="setting_summary_tab">Que doit-on montrer au début de la \"Vue d\'ensemble\"? La page d\'accueil, signets, …</string>
-    <string name="setting_title_confirm_exit">Confirmer pour quitter</string>
-    <string name="setting_summary_confirm_exit">Fenêtre de confirmation avant fermeture du navigateur.</string>
-    <string name="setting_title_confirm_tab_close">Confirmer fermeture onglet</string>
-    <string name="setting_summary_confirm_tab_close">Fenêtre de confirmation avant fermeture d\'un onglet.</string>
-    <string name="setting_hide_always">Masquer toujours</string>
-    <string name="setting_hide_down">Seulement en faisant défiler vers le bas</string>
-    <string name="setting_hide_never">Ne jamais cacher</string>
-    <string name="setting_hideNav_always">Masquer toujours</string>
-    <string name="setting_hideNav_toolbar">Quand la barre d\'outils est affichée</string>
-    <string name="setting_overView">Vue d\'ensemble</string>
-    <string name="setting_overView_onStart_title">Montrer au démarrage</string>
-    <string name="setting_overView_onStart_summary">Ouvrir \"vue d\'ensemble\" à chaque démarrage de l\'application.</string>
+    <string name="setting_title_nav">Кнопка навігації</string>
+    <string name="setting_title_nav_pos">Положення</string>
+    <string name="setting_summary_nav_pos">Визначте, де буде розміщена \"Кнопка навігації\".</string>
+    <string name="setting_summary_nav_pos_right">Праворуч</string>
+    <string name="setting_summary_nav_pos_left">Зліва</string>
+    <string name="setting_summary_nav_pos_center">По центру</string>
+    <string name="setting_title_nav_show">Приховати Кнопку навігації</string>
+    <string name="setting_summary_nav_show">Приховати \"Кнопку навігації\", при відображенні Панелі інструментів.</string>
+    <string name="setting_summary_tab">Що повинно відображатися при запуску \"FOSS Browser\"? Початкова сторінка, закладки …</string>
+    <string name="setting_title_confirm_exit">Підтвердити вихід з браузера</string>
+    <string name="setting_summary_confirm_exit">Діалогове вікно підтвердження при закритті браузера.</string>
+    <string name="setting_title_confirm_tab_close">Підтвердити закриття вкладки</string>
+    <string name="setting_summary_confirm_tab_close">Діалогове вікно підтвердження при закритті вкладки.</string>
+    <string name="setting_hide_always">Приховувати завжди</string>
+    <string name="setting_hide_down">Тільки при прокручуванні вниз</string>
+    <string name="setting_hide_never">Завжди видно</string>
+    <string name="setting_hideNav_always">Приховувати завжди</string>
+    <string name="setting_hideNav_toolbar">При відображенні панелі інструментів</string>
+    <string name="setting_overView">Огляд</string>
+    <string name="setting_overView_onStart_title">Показувати при запуску</string>
+    <string name="setting_overView_onStart_summary">Відкрити \"Огляд\" при запуску додатка.</string>
     <string name="setting_overView_hide_title">Hide tab previews</string>
     <string name="setting_overView_hide_summary">In expanded overview the tab preview will hide. Then you have more place for your
     bookmarks.</string>
     <string name="setting_overView_place_title">Only tab preview</string>
     <string name="setting_overView_place_summary">Only show the tab preview when extending overview to switch tabs more comfortable.</string>
-    <string name="setting_gestures">Gestes</string>
-    <string name="setting_gestures_use_title">Utiliser des gestes</string>
-    <string name="setting_gestures_use_summary">Utilisez des gestes dans barre d’outils et le \"Bouton de navigation\".</string>
-    <string name="setting_title_reopenLastTab">Rouvrir dernier onglet</string>
-    <string name="setting_summary_reopenLastTab">Rouvrir un nouvel onglet lorsque le dernier onglet est fermé au lieu de quitter le navigateur.</string>
+    <string name="setting_gestures">Жести</string>
+    <string name="setting_gestures_use_title">Використовувати жести</string>
+    <string name="setting_gestures_use_summary">Використовуйте жести на панелі інструментів і кнопку Навігація.</string>
+    <string name="setting_title_reopenLastTab">Reopen last tab</string>
+    <string name="setting_summary_reopenLastTab">Reopen a new tab when the last tab is closed instead of exiting the browser.</string>
     <!-- gestures -->
-    <string name="setting_title_toolbar">Barre d\'outils</string>
-    <string name="setting_gesture_up">Balayez vers le haut</string>
-    <string name="setting_gesture_down">Balayez vers le bas</string>
-    <string name="setting_gesture_left">Balayez à gauche</string>
-    <string name="setting_gesture_right">Balayer à droite</string>
-    <string name="setting_gesture_01">Rien</string>
-    <string name="setting_gesture_02">Depuis l\'historique</string>
-    <string name="setting_gesture_03">Retour dans l\'historique</string>
-    <string name="setting_gesture_04">Défilement vers le haut</string>
-    <string name="setting_gesture_05">Défilement vers le bas</string>
-    <string name="setting_gesture_06">Basculer vers l’onglet gauche</string>
-    <string name="setting_gesture_07">Basculer vers l’onglet droit</string>
-    <string name="setting_gesture_08">Voir vue d’ensemble</string>
-    <string name="setting_gesture_09">Ouvrir nouvel onglet</string>
-    <string name="setting_gesture_10">Fermer l’onglet</string>
+    <string name="setting_title_toolbar">Панель інструментів</string>
+    <string name="setting_gesture_up">Проведіть вгору</string>
+    <string name="setting_gesture_down">Проведіть вниз</string>
+    <string name="setting_gesture_left">Проведіть пальцем вліво</string>
+    <string name="setting_gesture_right">Проведіть праворуч</string>
+    <string name="setting_gesture_01">Нічого</string>
+    <string name="setting_gesture_02">Вперед в історію</string>
+    <string name="setting_gesture_03">Назад в історію</string>
+    <string name="setting_gesture_04">Прокрутити вгору</string>
+    <string name="setting_gesture_05">Прокрутити вниз</string>
+    <string name="setting_gesture_06">Перемкнутися на вкладку ліворуч</string>
+    <string name="setting_gesture_07">Перемкнутися на праву вкладку</string>
+    <string name="setting_gesture_08">Показати вигляд</string>
+    <string name="setting_gesture_09">Відкрити нову вкладку</string>
+    <string name="setting_gesture_10">Закрити вкладку</string>
     <!-- Data -->
-    <string name="export_bookmarks">Exporter des signets</string>
-    <string name="setting_title_export_whitelist">Exporter la liste blanche d’AdBlock</string>
-    <string name="setting_title_import_whitelist">Importer la liste blanche d’AdBlock</string>
-    <string name="export_whitelistAdBlock">exporter liste blanche AdBlock</string>
-    <string name="setting_title_export_whitelistJS">Exporter la liste blanche JavaScript</string>
-    <string name="setting_title_import_whitelistJS">Importer la liste blanche JavaScript</string>
+    <string name="export_bookmarks">export_bookmarks</string>
+    <string name="setting_title_export_whitelist">Експорт білого списку AdBlock</string>
+    <string name="setting_title_import_whitelist">Імпорт білого списку AdBlock</string>
+    <string name="export_whitelistAdBlock">export_whitelist_AdBlock</string>
+    <string name="setting_title_export_whitelistJS">Експорт білого списку JavaScript</string>
+    <string name="setting_title_import_whitelistJS">Імпорт білого списку JavaScript</string>
     <string name="export_whitelistJS">export_whitelist_Javascript</string>
-    <string name="setting_title_export_whitelistCookie">Exporter la liste blanche des cookies</string>
-    <string name="setting_title_import_whitelistCookie">Importer une liste blanche de cookies</string>
+    <string name="setting_title_export_whitelistCookie">Експорт білого списку куки</string>
+    <string name="setting_title_import_whitelistCookie">Імпорт білого списку куки</string>
     <string name="export_whitelistCookie">export_whitelist_Cookie</string>
-    <string name="setting_title_export_database">Exporter base de données</string>
-    <string name="setting_title_import_database">Importer base de données</string>
-    <string name="setting_summary_export_database">Exporter l\'ensemble de la base de données (Page d\'accueil + prévisualisations,Historique, Signets) vers votre
-        carte SD.</string>
-    <string name="title_database">Base de données</string>
-    <string name="hint_database">Cela supprimera tous vos paramètres et données actuels. Allez-vous procéder?</string>
+    <string name="setting_title_export_database">Експорт даних</string>
+    <string name="setting_title_import_database">Імпорт бази даних</string>
+    <string name="setting_summary_export_database">Експортуйте всю базу даних (початкова сторінка + превью, історія, закладки) на вашу SD-карту. Ваші дані для входу не будуть скопійовані.</string>
+    <string name="title_database">База даних</string>
+    <string name="hint_database">Це призведе до видалення всіх поточних налаштувань і даних. Продовжити?</string>
     <!-- Others setting -->
-    <string name="setting_title_others">Autres</string>
-    <string name="setting_title_license">Licence</string>
-    <string name="setting_summary_license">\"FOSS Browser\" est complètement libre (comme dans liberté) et open source.</string>
-    <string name="setting_title_appSettings">Paramètres</string>
-    <string name="setting_summary_appSettings">Ouvrir les paramètres système de l’application pour \"FOSS Browser\". Là, vous pouvez,
-        en fonction de votre version Android accorder des autorisations, effacer les données de l’application et ainsi de suite.</string>
-    <string name="setting_title_community">Contribuer</string>
-    <string name="setting_summary_community">Voir qui a apporté quelque chose à ce projet. Ou voulez-vous aider avec d’autres
-        au développement, signaler un problème ou simplement voir les dernières nouvelles relatives à mes projets?</string>
-    <string name="setting_summary_changelog">Afficher le dernier changelog pour voir les nouveautées.</string>
+    <string name="setting_title_others">Інший</string>
+    <string name="setting_title_license">Ліцензія</string>
+    <string name="setting_summary_license">\"FOSS Browser\" повністю безкоштовний (і вільний), а також з відкритим вихідним кодом.</string>
+    <string name="setting_title_appSettings">Налаштування</string>
+    <string name="setting_summary_appSettings">Відкрийте системні налаштування \"FOSS Browser\". Там ви можете надати дозволи, очистити дані програми і так далі.</string>
+    <string name="setting_title_community">Підтримка</string>
+    <string name="setting_summary_community">Подивіться, хто вніс зміни в цей проект. Ви також можете допомогти в подальшій розробці, повідомити про проблему або просто отримати останні новини, що стосуються проекту.</string>
+    <string name="setting_summary_changelog">Показати останній список змін.</string>
     <!-- Toast -->
-    <string name="toast_add_to_home_successful">Ajouté avec succès à l\'accueil</string>
-    <string name="toast_add_to_home_failed">Échec de l’ajout à l\'accueil</string>
-    <string name="toast_add_whitelist_successful">Domaine ajouté avec succès</string>
-    <string name="toast_already_exist_in_home">Existe déjà dans l\'Accueil</string>
-    <string name="toast_copy_successful">Copié avec succès</string>
-    <string name="toast_delete_successful">Supprimé avec succès</string>
-    <string name="toast_domain_already_exists">Le domaine existe déjà</string>
-    <string name="toast_export_successful">Exporté en tant que:&#160;</string>
-    <string name="toast_export_failed">Échec de l\'exportation</string>
-    <string name="toast_import_successful">Nombre importé:&#160;</string>
-    <string name="toast_import_failed">Échec de l\'importation</string>
-    <string name="toast_input_empty">Vous n\'avez rien entré.</string>
-    <string name="toast_invalid_domain">Domaine non valide</string>
-    <string name="toast_load_error">Impossible de charger cette URL</string>
-    <string name="toast_load_in_background">Chargement en arrière-plan</string>
-    <string name="toast_new_tab_successful">Ouvert avec succès dans un nouvel onglet</string>
-    <string name="toast_share_failed">Impossible de partager cette page</string>
-    <string name="toast_start_download">Démarrage du téléchargement</string>
-    <string name="toast_wait_a_minute">SVP attendez un moment</string>
-    <string name="toast_titleConfirm_delete">Voulez-vous vraiment supprimer l\'entrée?</string>
-    <string name="toast_titleConfirm_paste">Copier les données dans le presse papier?</string>
-    <string name="toast_titleConfirm_pasteUN">Nom d\'utilisateur</string>
-    <string name="toast_titleConfirm_pastePW">Mot de passe</string>
-    <string name="toast_error">Oups. Quelque chose a mal tourné.</string>
-    <string name="toast_newTitle">L\'entrée existe déjà. Veuillez entrer un nouveau titre.</string>
-    <string name="toast_edit_successful">Enregistré avec succès</string>
-    <string name="toast_webview_forward">Impossible de charger le site</string>
-    <string name="toast_clear">Voulez-vous vraiment effacer?</string>
+    <string name="toast_add_to_home_successful">Успішно додано на головну</string>
+    <string name="toast_add_to_home_failed">Не вдалося додати на головну</string>
+    <string name="toast_add_whitelist_successful">Успішно додано домен</string>
+    <string name="toast_already_exist_in_home">Вже існує на головній</string>
+    <string name="toast_copy_successful">Успішно скопійовано</string>
+    <string name="toast_delete_successful">Успішно видалено</string>
+    <string name="toast_domain_already_exists">Домен вже існує</string>
+    <string name="toast_export_successful">Експортовано як:</string>
+    <string name="toast_export_failed">Не вдалося експортувати</string>
+    <string name="toast_import_successful">Кількість імпортованих:</string>
+    <string name="toast_import_failed">Не вдалося імпортувати</string>
+    <string name="toast_input_empty">Ви нічого не ввели</string>
+    <string name="toast_invalid_domain">Невірний домен</string>
+    <string name="toast_load_error">Не вдається завантажити цю URL-адресу</string>
+    <string name="toast_load_in_background">Завантаження в тлі</string>
+    <string name="toast_new_tab_successful">Успішно відкрито в новій вкладці</string>
+    <string name="toast_share_failed">Не вдається поділитися цією сторінкою</string>
+    <string name="toast_start_download">Початок завантаження</string>
+    <string name="toast_wait_a_minute">Будь ласка, зачекайте</string>
+    <string name="toast_titleConfirm_delete">Хочете видалити запис?</string>
+    <string name="toast_titleConfirm_paste">Копіювати дані в буфер обміну?</string>
+    <string name="toast_titleConfirm_pasteUN">Ім\'я користувача</string>
+    <string name="toast_titleConfirm_pastePW">Пароль</string>
+    <string name="toast_error">Щось пішло не так.</string>
+    <string name="toast_newTitle">Запис вже існує. Введіть нову назву.</string>
+    <string name="toast_edit_successful">Успішно збережено</string>
+    <string name="toast_webview_forward">Не вдається завантажити наступний сайт</string>
+    <string name="toast_clear">Дійсно хочете очистити?</string>
     <string name="toast_permission_sdCard">\"FOSS Browser\" needs the permission to \"read and write on your storage\". This
         is needed to download files, taking screenshots and making backups of your data.</string>
     <string name="toast_permission_loc">\"FOSS Browser\" needs the permission to \"access your location\". This is requested from some
         websites for example when they offer some kind of navigation.</string>
-    <string name="toast_restart">Vous devez redémarrer \"FOSS Browser\" pour appliquer les modifications. Fermer maintenant?</string>
-    <string name="toast_quit">Voulez-vous quitter \"FOSS Browser\"?</string>
-    <string name="toast_close_tab">Voulez-vous fermer l’onglet actuel?</string>
-    <string name="toast_closeNotification">Fermer tous les sites Web ouverts.</string>
-    <string name="toast_downloadComplete">Téléchargement fini. Ouvrir le gestionnaire de fichiers?</string>
-    <string name="toast_unsecured">Ce site utilise une connexion non sécurisée (\"http\"). Voulez-vous essayer une connexion
-        sécurisée (\"https\")?</string>
-    <string name="toast_backup">Données de sauvegarde? Cela écrasera l\'ancienne sauvegarde.</string>
-    <string name="toast_fav">Défini avec succès comme site de démarrage.</string>
+    <string name="toast_restart">Щоб застосувати зміни, необхідно перезапустити \"FOSS Browser\". Закрити зараз?</string>
+    <string name="toast_quit">Хочете вийти з \"FOSS Browser\"?</string>
+    <string name="toast_close_tab">Хочете закрити поточну вкладку?</string>
+    <string name="toast_closeNotification">Закрити всі відкриті веб-сайти.</string>
+    <string name="toast_downloadComplete">Завантаження завершене. Відкрити файловий менеджер?</string>
+    <string name="toast_unsecured">Цей сайт використовує незахищене з\'єднання (\"http\"). Ви хочете спробувати безпечне з\'єднання (\"https\")?</string>
+    <string name="toast_backup">Зберегти дані? Це перезапише стару резервну копію.</string>
+    <string name="toast_fav">Успішно обрано як улюблене.</string>
     <!-- Whitelist -->
-    <string name="whitelist_menu_clear">Effacer</string>
-    <string name="whitelist_edit_hint">Domaine</string>
-    <string name="whitelist_add">Ajouté</string>
+    <string name="whitelist_menu_clear">Очистити</string>
+    <string name="whitelist_edit_hint">Домен</string>
+    <string name="whitelist_add">Додати</string>
     <!-- Dialog help -->
     <string name="dialogHelp_tipTitle">Tips</string>
     <string name="dialogHelp_tipText">        &lt;b&gt;Start site&lt;/b&gt;&lt;br&gt;
@@ -329,50 +313,11 @@
         disable unused entries.
     </string>
     <!-- Dialog changelog -->
-    <string name="changelog_title">Changelog</string>
-    <string name="changelog_dialog">        &lt;b&gt;On the following sites you have access to all important information about \"FOSS Browser\".
-        Please read also the help dialog within the app.&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-
-        \u25AA &lt;i&gt;Project site:&lt;/i&gt; https://github.com/scoute-dich/Browser&lt;br&gt;
-        \u25AA &lt;i&gt;Changelog:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/CHANGELOG.md&lt;br&gt;
-        \u25AA &lt;i&gt;FAQ:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/FAQs.md&lt;br&gt;
-        \u25AA &lt;i&gt;License:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/LICENSE.md&lt;br&gt;
-        \u25AA &lt;i&gt;Privacy:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/PRIVACY.md
-
-    </string>
+    <string name="changelog_title">Список змін</string>
+    <string name="changelog_dialog">&lt;i&gt;Сайт проекту: https://github.com/scoute-dich/Browser&lt;br&gt; Список змін: https://github.com/scoute-dich/browser/blob/master/CHANGELOG.md&lt;/i&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;Версія: 6.2&lt;/b&gt;&lt;br&gt; ▪ new: advanced gesture settings&lt;br&gt; ▪ new: show overview on start&lt;br&gt; ▪ fix: light settings theme</string>
     <!-- License changelog -->
-    <string name="license_title">Copyright © 2017  by Gaukler Faun</string>
-    <string name="license_dialog">        &lt;i&gt;Pour plus d\'informations, visitez le site du projet sur Github: https://github.com/scoute-dich/Browser&lt;/i&gt;&lt;br&gt;&lt;br&gt;
-
-        Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le modifier
-        sous les termes de la Licence Publique Générale GNU telle que publiée par
-        la Free Software Foundation, soit la version 3 de la Licence, soit
-        (à votre choix) toute version ultérieure.
-
-        Ce programme est distribué dans l\'espoir qu\'il sera utile,
-        mais SANS AUCUNE GARANTIE ; sans même la garantie implicite de
-        LA COMMERCIALISATION ou l\'ADÉQUATION À UN OBJECTIF PARTICULIER.  Voir le
-        GNU General Public License pour plus de détails.
-
-        Vous devriez avoir reçu une copie de la Licence Publique Générale GNU
-        avec ce programme.  Si ce n\'est pas le cas, voir http://www.gnu.org/licenses.&lt;br&gt;&lt;br&gt;
-
-        &lt;i&gt;Les bibliothèques ou projets open source suivants sont utilisés dans ce logiciel:&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
-
-        &lt;b&gt;Material Design Icons&lt;/b&gt;&lt;br&gt;
-        SIL Open Font License, Version 1.1.&lt;br&gt;
-        Templarian&lt;br&gt;
-        &lt;i&gt;https://github.com/Templarian/MaterialDesign&lt;/i&gt;&lt;br&gt;&lt;br&gt;
-
-        &lt;b&gt;Ninja&lt;/b&gt;&lt;br&gt;
-        Apache License Version 2.0&lt;br&gt;
-        Matthew Lee&lt;br&gt;
-        &lt;i&gt;http://git.io/vUrEh&lt;/i&gt;&lt;br&gt;&lt;br&gt;
-
-        &lt;b&gt;SimpleEncryptionLib&lt;/b&gt;&lt;br&gt;
-        Apache License Version 2.0&lt;br&gt;
-        hummatli&lt;br&gt;
-        &lt;i&gt;https://github.com/hummatli/SimpleEncryptionLib</string>
+    <string name="license_title">Copyright © 2017 by Gaukler Faun</string>
+    <string name="license_dialog">&lt;i&gt;Для отримання додаткової інформації відвідайте сайт проекту на Github: https://github.com/scoute-dich/Browser&lt;/i&gt;&lt;br&gt;&lt;br&gt; This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses.&lt;br&gt;&lt;br&gt; &lt;i&gt;Following open source libraries or projects are used within this software:&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;Android Sliding Up Panel&lt;/b&gt;&lt;br&gt; Apache License Version 2.0&lt;br&gt; Umano: News Read To You&lt;br&gt; &lt;i&gt;http://git.io/vUruG&lt;/i&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;Android Swipe-to-Dismiss&lt;/b&gt;&lt;br&gt; Apache License Version 2.0&lt;br&gt; Roman Nurik&lt;br&gt; &lt;i&gt;http://git.io/vUruO&lt;/i&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;DynamicGrid&lt;/b&gt;&lt;br&gt; Apache License Version 2.0&lt;br&gt; askerov&lt;br&gt; &lt;i&gt;http://git.io/vTHZH&lt;/i&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;Lightning Browser&lt;/b&gt;&lt;br&gt; Mozilla Public License Version 2.0&lt;br&gt; Anthony Restaino&lt;br&gt; &lt;i&gt;http://git.io/vUruk&lt;/i&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;Material Design Icons&lt;/b&gt;&lt;br&gt; SIL Open Font License, Version 1.1.&lt;br&gt; Templarian&lt;br&gt; &lt;i&gt;https://github.com/Templarian/MaterialDesign&lt;/i&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;Ninja&lt;/b&gt;&lt;br&gt; Apache License Version 2.0&lt;br&gt; Matthew Lee&lt;br&gt; &lt;i&gt;http://git.io/vUrEh&lt;/i&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;SimpleEncryptionLib&lt;/b&gt;&lt;br&gt; Apache License Version 2.0&lt;br&gt; hummatli&lt;br&gt; &lt;i&gt;https://github.com/hummatli/SimpleEncryptionLib</string>
     <string name="cont_dialog">        &lt;i&gt;First I would like to thank all people who contributed in any way on this project. They submitted issues,
         translated or helped in any other way. On following sites you can become a active member of this
         great community:&lt;/i&gt;&lt;br&gt;&lt;br&gt;
