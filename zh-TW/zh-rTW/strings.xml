@@ -33,16 +33,17 @@
     <string name="menu_open_with">以其他軟體開啟連結</string>
     <string name="menu_share">分享</string>
     <string name="menu_quit">退出</string>
+    <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">刪除</string>
     <string name="menu_delete_list">清除所列項目</string>
     <string name="menu_edit">編輯</string>
     <string name="menu_closeTab">關閉分頁</string>
     <string name="menu_download">開啟下載資料夾</string>
-    <string name="menu_fav">設為起始頁</string>
+    <string name="menu_fav">Save as favorite</string>
     <string name="menu_sc">Shortcut on home screen</string>
     <string name="menu_sort">排序方式</string>
     <string name="menu_filter">以顏色篩選</string>
-    <string name="menu_blank">空白起始頁</string>
+    <string name="menu_blank">Blank favorite</string>
     <string name="menu_share_screenshot">分享擷圖</string>
     <string name="menu_share_link">分享連結</string>
     <string name="menu_save_screenshot">儲存擷圖</string>
@@ -52,6 +53,7 @@
     <string name="menu_save_pdf">儲存為PDF</string>
     <string name="menu_share_pdf">分享PDF</string>
     <string name="menu_share_pdfToast">完成。是否透過檔案管理器分享？</string>
+    <string name="menu_shareClipboard">Copy to clipboard</string>
     <string name="menu_other_searchSite">頁面中搜尋</string>
     <string name="menu_other_help">說明</string>
     <!-- Dialog -->
@@ -264,17 +266,17 @@
     <string name="toast_downloadComplete">下載完成。是否開啟檔案管理器？</string>
     <string name="toast_unsecured">此網站使用不安全的連線（http），是否嘗試使用安全連線（https）？</string>
     <string name="toast_backup">是否備份資料？舊的資料將被覆蓋！</string>
-    <string name="toast_fav">成功設為起始頁</string>
+    <string name="toast_fav">Successfully set as favorite.</string>
     <!-- Whitelist -->
     <string name="whitelist_menu_clear">清除</string>
     <string name="whitelist_edit_hint">域名</string>
     <string name="whitelist_add">新增</string>
     <!-- Dialog help -->
     <string name="dialogHelp_tipTitle">Tips</string>
-    <string name="dialogHelp_tipText">        &lt;b&gt;Start site&lt;/b&gt;&lt;br&gt;
+    <string name="dialogHelp_tipText">        &lt;b&gt;Favorite&lt;/b&gt;&lt;br&gt;
         You can decide which site loads when \"FOSS Browser\" starts: By long pressing an entry in the
         overview (Startsite, Bookmarks, History) you can choose it. Over the menu of the overview you can also set
-        a blank start site.&lt;br&gt;&lt;br&gt;
+        a blank favorite.&lt;br&gt;&lt;br&gt;
 
         &lt;b&gt;Menus and dialogs&lt;/b&gt;&lt;br&gt;
         All menus and dialogs are opened at the bottom of the screen. If the dialog is large you will first see only
