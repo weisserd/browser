@@ -33,16 +33,17 @@
     <string name="menu_open_with">Открыть ссылку с …</string>
     <string name="menu_share">Общий доступ</string>
     <string name="menu_quit">Выход</string>
+    <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">Удалить</string>
     <string name="menu_delete_list">Очистить данные</string>
     <string name="menu_edit">Изменить</string>
     <string name="menu_closeTab">Закрыть вкладку</string>
     <string name="menu_download">Открытые загрузки</string>
-    <string name="menu_fav">Set as start site</string>
+    <string name="menu_fav">Save as favorite</string>
     <string name="menu_sc">Shortcut on home screen</string>
     <string name="menu_sort">Sort by …</string>
     <string name="menu_filter">Filter by …</string>
-    <string name="menu_blank">Blank start site</string>
+    <string name="menu_blank">Blank favorite</string>
     <string name="menu_share_screenshot">Поделиться скриншотом</string>
     <string name="menu_share_link">Поделиться ссылкой</string>
     <string name="menu_save_screenshot">Сохранить скриншот</string>
@@ -52,6 +53,7 @@
     <string name="menu_save_pdf">Сохранить в PDF</string>
     <string name="menu_share_pdf">Поделиться PDF</string>
     <string name="menu_share_pdfToast">Завершено. Открыть файловый менеджер для совместного использования?</string>
+    <string name="menu_shareClipboard">Copy to clipboard</string>
     <string name="menu_other_searchSite">Поиск по сайту</string>
     <string name="menu_other_help">Помощь</string>
     <!-- Dialog -->
@@ -259,17 +261,17 @@
     <string name="toast_downloadComplete">Загрузка завершена. Открыть файловый менеджер?</string>
     <string name="toast_unsecured">Сайт использует незащищенное соединение (\"http\"). Хотите попробовать безопасное соединение (\"https\")?</string>
     <string name="toast_backup">Сохранить данные? Это перезапишет старую резервную копию.</string>
-    <string name="toast_fav">Successfully set as start site.</string>
+    <string name="toast_fav">Successfully set as favorite.</string>
     <!-- Whitelist -->
     <string name="whitelist_menu_clear">Очистить</string>
     <string name="whitelist_edit_hint">Домен</string>
     <string name="whitelist_add">Добавить</string>
     <!-- Dialog help -->
     <string name="dialogHelp_tipTitle">Tips</string>
-    <string name="dialogHelp_tipText">        &lt;b&gt;Start site&lt;/b&gt;&lt;br&gt;
+    <string name="dialogHelp_tipText">        &lt;b&gt;Favorite&lt;/b&gt;&lt;br&gt;
         You can decide which site loads when \"FOSS Browser\" starts: By long pressing an entry in the
         overview (Startsite, Bookmarks, History) you can choose it. Over the menu of the overview you can also set
-        a blank start site.&lt;br&gt;&lt;br&gt;
+        a blank favorite.&lt;br&gt;&lt;br&gt;
 
         &lt;b&gt;Menus and dialogs&lt;/b&gt;&lt;br&gt;
         All menus and dialogs are opened at the bottom of the screen. If the dialog is large you will first see only
