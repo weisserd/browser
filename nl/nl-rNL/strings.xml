@@ -33,16 +33,17 @@
     <string name="menu_open_with">Link openen met…</string>
     <string name="menu_share">Delen</string>
     <string name="menu_quit">Afsluiten</string>
+    <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">Verwijderen</string>
     <string name="menu_delete_list">Lijst verwijderen</string>
     <string name="menu_edit">Bewerken</string>
     <string name="menu_closeTab">Tabblad sluiten</string>
     <string name="menu_download">Downloads openen</string>
-    <string name="menu_fav">Set as start site</string>
+    <string name="menu_fav">Save as favorite</string>
     <string name="menu_sc">Shortcut on home screen</string>
     <string name="menu_sort">Sort by …</string>
     <string name="menu_filter">Filter by …</string>
-    <string name="menu_blank">Blank start site</string>
+    <string name="menu_blank">Blank favorite</string>
     <string name="menu_share_screenshot">Schermafdruk delen</string>
     <string name="menu_share_link">Link delen</string>
     <string name="menu_save_screenshot">Schermafdruk opslaan</string>
@@ -52,6 +53,7 @@
     <string name="menu_save_pdf">Opslaan als PDF-bestand</string>
     <string name="menu_share_pdf">PDF-bestand delen</string>
     <string name="menu_share_pdfToast">Voltooid. Wil je bestandsbeheerd openen om het te delen?</string>
+    <string name="menu_shareClipboard">Copy to clipboard</string>
     <string name="menu_other_searchSite">Website doorzoeken</string>
     <string name="menu_other_help">Hulp</string>
     <!-- Dialog -->
@@ -278,17 +280,17 @@
     <string name="toast_unsecured">Deze website gebruikt een onbeveiligde verbinding (\"http\"). Wil je een beveiligde verbinding
         (\"https\") proberen?</string>
     <string name="toast_backup">Wil je de gegevens back-uppen? Dit overschrijft de oude back-up.</string>
-    <string name="toast_fav">Successfully set as start site.</string>
+    <string name="toast_fav">Successfully set as favorite.</string>
     <!-- Whitelist -->
     <string name="whitelist_menu_clear">Wissen</string>
     <string name="whitelist_edit_hint">Domein</string>
     <string name="whitelist_add">Toevoegen</string>
     <!-- Dialog help -->
     <string name="dialogHelp_tipTitle">Tips</string>
-    <string name="dialogHelp_tipText">        &lt;b&gt;Start site&lt;/b&gt;&lt;br&gt;
+    <string name="dialogHelp_tipText">        &lt;b&gt;Favorite&lt;/b&gt;&lt;br&gt;
         You can decide which site loads when \"FOSS Browser\" starts: By long pressing an entry in the
         overview (Startsite, Bookmarks, History) you can choose it. Over the menu of the overview you can also set
-        a blank start site.&lt;br&gt;&lt;br&gt;
+        a blank favorite.&lt;br&gt;&lt;br&gt;
 
         &lt;b&gt;Menus and dialogs&lt;/b&gt;&lt;br&gt;
         All menus and dialogs are opened at the bottom of the screen. If the dialog is large you will first see only
