@@ -33,16 +33,17 @@
     <string name="menu_open_with">Otwórz link zewnętrznie</string>
     <string name="menu_share">Udostępnij</string>
     <string name="menu_quit">Wyjdź</string>
+    <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">Usuń</string>
     <string name="menu_delete_list">Usuń listę</string>
     <string name="menu_edit">Dostosuj</string>
     <string name="menu_closeTab">Zamknij kartę</string>
     <string name="menu_download">Pobrane</string>
-    <string name="menu_fav">Ustaw jako ulubioną</string>
+    <string name="menu_fav">Save as favorite</string>
     <string name="menu_sc">Shortcut on home screen</string>
     <string name="menu_sort">Sortuj zakładki</string>
     <string name="menu_filter">Filtruj kolorem</string>
-    <string name="menu_blank">Blank start site</string>
+    <string name="menu_blank">Blank favorite</string>
     <string name="menu_share_screenshot">Udostępnij zrzut ekranu</string>
     <string name="menu_share_link">Udostępnij link</string>
     <string name="menu_save_screenshot">Zachowaj zrzut ekranu</string>
@@ -52,6 +53,7 @@
     <string name="menu_save_pdf">Zachowaj jako PDF</string>
     <string name="menu_share_pdf">Udostępnij PDF</string>
     <string name="menu_share_pdfToast">Ukończono. Przejść do katalogu pobierania?</string>
+    <string name="menu_shareClipboard">Copy to clipboard</string>
     <string name="menu_other_searchSite">Wyszukaj na tej stronie</string>
     <string name="menu_other_help">Pomoc</string>
     <!-- Dialog -->
@@ -260,17 +262,17 @@
     <string name="toast_downloadComplete">Pobieranie ukończone. Otworzyć katalog pobierania?</string>
     <string name="toast_unsecured">Ta witryna używa nieszyfrowanego połączenia (\"http\"). Spróbować przejść na szyfrowane (\"https\")?</string>
     <string name="toast_backup">Dokonać nowej kopii bezpieczeństwa danych? Nadpisze ona poprzednią kopię.</string>
-    <string name="toast_fav">Ustawiono jako ulubioną na start.</string>
+    <string name="toast_fav">Successfully set as favorite.</string>
     <!-- Whitelist -->
     <string name="whitelist_menu_clear">Wymaż</string>
     <string name="whitelist_edit_hint">Adres</string>
     <string name="whitelist_add">Dodaj</string>
     <!-- Dialog help -->
     <string name="dialogHelp_tipTitle">Tips</string>
-    <string name="dialogHelp_tipText">        &lt;b&gt;Start site&lt;/b&gt;&lt;br&gt;
+    <string name="dialogHelp_tipText">        &lt;b&gt;Favorite&lt;/b&gt;&lt;br&gt;
         You can decide which site loads when \"FOSS Browser\" starts: By long pressing an entry in the
         overview (Startsite, Bookmarks, History) you can choose it. Over the menu of the overview you can also set
-        a blank start site.&lt;br&gt;&lt;br&gt;
+        a blank favorite.&lt;br&gt;&lt;br&gt;
 
         &lt;b&gt;Menus and dialogs&lt;/b&gt;&lt;br&gt;
         All menus and dialogs are opened at the bottom of the screen. If the dialog is large you will first see only
