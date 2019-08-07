@@ -33,6 +33,7 @@
     <string name="menu_open_with">Apri link con …</string>
     <string name="menu_share">Condividi</string>
     <string name="menu_quit">Chiudi</string>
+    <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">Elimina</string>
     <string name="menu_delete_list">Elimina lista</string>
     <string name="menu_edit">Modifica</string>
@@ -52,6 +53,7 @@
     <string name="menu_save_pdf">Salva come PDF</string>
     <string name="menu_share_pdf">Condividi PDF</string>
     <string name="menu_share_pdfToast">Completato. Aprire il file manager per condividere?</string>
+    <string name="menu_shareClipboard">Copy to clipboard</string>
     <string name="menu_other_searchSite">Cerca nel sito</string>
     <string name="menu_other_help">Aiuto</string>
     <!-- Dialog -->
@@ -195,7 +197,7 @@
     <string name="setting_gesture_07">Switch to right tab</string>
     <string name="setting_gesture_08">Show overview</string>
     <string name="setting_gesture_09">Open new tab</string>
-    <string name="setting_gesture_10">Close tab</string>
+    <string name="setting_gesture_10">Chiudi scheda</string>
     <!-- Data -->
     <string name="export_bookmarks">export_bookmarks</string>
     <string name="setting_title_export_whitelist">Esporta whitelist AdBlock</string>
