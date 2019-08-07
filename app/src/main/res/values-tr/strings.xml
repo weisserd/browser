@@ -33,6 +33,7 @@
     <string name="menu_open_with">Bağlantıyı aç…</string>
     <string name="menu_share">Paylaş</string>
     <string name="menu_quit">Çık</string>
+    <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">Sil</string>
     <string name="menu_delete_list">Listeyi sil</string>
     <string name="menu_edit">Düzenle</string>
@@ -52,6 +53,7 @@
     <string name="menu_save_pdf">PDF olarak kaydet</string>
     <string name="menu_share_pdf">PDF paylaş</string>
     <string name="menu_share_pdfToast">Tamamlandı. Paylaşmak için dosya yöneticisi açılsın mı?</string>
+    <string name="menu_shareClipboard">Copy to clipboard</string>
     <string name="menu_other_searchSite">Sitede ara</string>
     <string name="menu_other_help">Yardım</string>
     <!-- Dialog -->
@@ -299,7 +301,7 @@
         If you long press the menu icon or the \"Navigation button\", the \"Fast toggle dialog\" will show. If you long
         press the \"Bookmark icon\", the \"Filter dialog\" will show.
     </string>
-    <string name="dialogHelp_overviewTitle">Overview</string>
+    <string name="dialogHelp_overviewTitle">Genel Bakış</string>
     <string name="dialogHelp_overviewText">        There are two parts in the \"Overview\" (tab preview and personal data). There is an extra menu. In the settings
         you can change the behavior of the \"Overview\".&lt;br&gt;&lt;br&gt;
 
@@ -311,7 +313,7 @@
         There are three parts: the Startsite, your Bookmarks and your History. If you long click an entry
         a menu with more options will appear.
     </string>
-    <string name="dialogHelp_gesturesTitle">Gestures</string>
+    <string name="dialogHelp_gesturesTitle">Hareketler</string>
     <string name="dialogHelp_gesturesText">        On the toolbar and the \"Navigation button\" you can use gestures:&lt;br&gt;&lt;br&gt;
 
         &lt;b&gt;Toolbar&lt;/b&gt;&lt;br&gt;
