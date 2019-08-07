@@ -33,6 +33,7 @@
     <string name="menu_open_with">Link openen met…</string>
     <string name="menu_share">Delen</string>
     <string name="menu_quit">Afsluiten</string>
+    <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">Verwijderen</string>
     <string name="menu_delete_list">Lijst verwijderen</string>
     <string name="menu_edit">Bewerken</string>
@@ -52,6 +53,7 @@
     <string name="menu_save_pdf">Opslaan als PDF-bestand</string>
     <string name="menu_share_pdf">PDF-bestand delen</string>
     <string name="menu_share_pdfToast">Voltooid. Wil je bestandsbeheerd openen om het te delen?</string>
+    <string name="menu_shareClipboard">Copy to clipboard</string>
     <string name="menu_other_searchSite">Website doorzoeken</string>
     <string name="menu_other_help">Hulp</string>
     <!-- Dialog -->
@@ -206,7 +208,7 @@
     <string name="setting_gesture_07">Switch to right tab</string>
     <string name="setting_gesture_08">Show overview</string>
     <string name="setting_gesture_09">Open new tab</string>
-    <string name="setting_gesture_10">Close tab</string>
+    <string name="setting_gesture_10">Tabblad sluiten</string>
     <!-- Data -->
     <string name="export_bookmarks">Bladwijzers exporteren</string>
     <string name="setting_title_export_whitelist">Advertentieblokkering - witte lijst exporteren</string>
