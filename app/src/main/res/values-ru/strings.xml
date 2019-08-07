@@ -33,6 +33,7 @@
     <string name="menu_open_with">Открыть ссылку с …</string>
     <string name="menu_share">Общий доступ</string>
     <string name="menu_quit">Выход</string>
+    <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">Удалить</string>
     <string name="menu_delete_list">Очистить данные</string>
     <string name="menu_edit">Изменить</string>
@@ -52,6 +53,7 @@
     <string name="menu_save_pdf">Сохранить в PDF</string>
     <string name="menu_share_pdf">Поделиться PDF</string>
     <string name="menu_share_pdfToast">Завершено. Открыть файловый менеджер для совместного использования?</string>
+    <string name="menu_shareClipboard">Copy to clipboard</string>
     <string name="menu_other_searchSite">Поиск по сайту</string>
     <string name="menu_other_help">Помощь</string>
     <!-- Dialog -->
@@ -195,7 +197,7 @@
     <string name="setting_gesture_07">Switch to right tab</string>
     <string name="setting_gesture_08">Show overview</string>
     <string name="setting_gesture_09">Open new tab</string>
-    <string name="setting_gesture_10">Close tab</string>
+    <string name="setting_gesture_10">Закрыть вкладку</string>
     <!-- Data -->
     <string name="export_bookmarks">export_bookmarks</string>
     <string name="setting_title_export_whitelist">Экспорт белого списка AdBlock</string>
