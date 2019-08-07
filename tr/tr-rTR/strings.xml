@@ -33,16 +33,17 @@
     <string name="menu_open_with">Bağlantıyı aç…</string>
     <string name="menu_share">Paylaş</string>
     <string name="menu_quit">Çık</string>
+    <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">Sil</string>
     <string name="menu_delete_list">Listeyi sil</string>
     <string name="menu_edit">Düzenle</string>
     <string name="menu_closeTab">Sekmeyi kapat</string>
     <string name="menu_download">İndirmeleri aç</string>
-    <string name="menu_fav">Başlangıç sitesi olarak ayarla</string>
+    <string name="menu_fav">Save as favorite</string>
     <string name="menu_sc">Shortcut on home screen</string>
     <string name="menu_sort">Sırala …</string>
     <string name="menu_filter">Renge göre filtrele…</string>
-    <string name="menu_blank">Boş başlangıç sitesi</string>
+    <string name="menu_blank">Blank favorite</string>
     <string name="menu_share_screenshot">Ekran görüntüsünü paylaş</string>
     <string name="menu_share_link">Bağlantıyı paylaş</string>
     <string name="menu_save_screenshot">Ekran görüntüsünü kaydet</string>
@@ -52,6 +53,7 @@
     <string name="menu_save_pdf">PDF olarak kaydet</string>
     <string name="menu_share_pdf">PDF paylaş</string>
     <string name="menu_share_pdfToast">Tamamlandı. Paylaşmak için dosya yöneticisi açılsın mı?</string>
+    <string name="menu_shareClipboard">Copy to clipboard</string>
     <string name="menu_other_searchSite">Sitede ara</string>
     <string name="menu_other_help">Yardım</string>
     <!-- Dialog -->
@@ -278,17 +280,17 @@
     <string name="toast_unsecured">Bu web sitesi güvenli olmayan bir bağlantı kullanıyor (\"http\"). Güvenli bir bağlantı
 	denemek ister misiniz (\"https\")?</string>
     <string name="toast_backup">Veri yedeklensin mi? Bu eski yedeklemenin üzerine yazacaktır.</string>
-    <string name="toast_fav">Başarıyla başlangıç sitesi olarak ayarlandı.</string>
+    <string name="toast_fav">Successfully set as favorite.</string>
     <!-- Whitelist -->
     <string name="whitelist_menu_clear">Temzile</string>
     <string name="whitelist_edit_hint">Etki alanı</string>
     <string name="whitelist_add">Ekle</string>
     <!-- Dialog help -->
     <string name="dialogHelp_tipTitle">Tips</string>
-    <string name="dialogHelp_tipText">        &lt;b&gt;Start site&lt;/b&gt;&lt;br&gt;
+    <string name="dialogHelp_tipText">        &lt;b&gt;Favorite&lt;/b&gt;&lt;br&gt;
         You can decide which site loads when \"FOSS Browser\" starts: By long pressing an entry in the
         overview (Startsite, Bookmarks, History) you can choose it. Over the menu of the overview you can also set
-        a blank start site.&lt;br&gt;&lt;br&gt;
+        a blank favorite.&lt;br&gt;&lt;br&gt;
 
         &lt;b&gt;Menus and dialogs&lt;/b&gt;&lt;br&gt;
         All menus and dialogs are opened at the bottom of the screen. If the dialog is large you will first see only
