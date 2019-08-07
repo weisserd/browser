@@ -33,16 +33,17 @@
     <string name="menu_open_with">Ouvrir le lien avec …</string>
     <string name="menu_share">Partager</string>
     <string name="menu_quit">Quitter</string>
+    <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">Effacer</string>
     <string name="menu_delete_list">Supprimer la liste</string>
     <string name="menu_edit">Editer</string>
     <string name="menu_closeTab">Fermer l\'onglet</string>
     <string name="menu_download">Ouvrir les téléchargements</string>
-    <string name="menu_fav">Définir comme site de démarrage</string>
+    <string name="menu_fav">Save as favorite</string>
     <string name="menu_sc">Shortcut on home screen</string>
     <string name="menu_sort">Trier par …</string>
     <string name="menu_filter">Filtrer par …</string>
-    <string name="menu_blank">Site vierge</string>
+    <string name="menu_blank">Blank favorite</string>
     <string name="menu_share_screenshot">Partager capture d’écran</string>
     <string name="menu_share_link">Partager le lien</string>
     <string name="menu_save_screenshot">Enregistrer capture d’écran</string>
@@ -52,6 +53,7 @@
     <string name="menu_save_pdf">Enregistrer en PDF</string>
     <string name="menu_share_pdf">Partager PDF</string>
     <string name="menu_share_pdfToast">Achevée. Ouvrir le gest. de fichiers pour partager?</string>
+    <string name="menu_shareClipboard">Copy to clipboard</string>
     <string name="menu_other_searchSite">Rechercher sur le site</string>
     <string name="menu_other_help">Aide</string>
     <!-- Dialog -->
@@ -277,17 +279,17 @@
     <string name="toast_unsecured">Ce site utilise une connexion non sécurisée (\"http\"). Voulez-vous essayer une connexion
         sécurisée (\"https\")?</string>
     <string name="toast_backup">Données de sauvegarde? Cela écrasera l\'ancienne sauvegarde.</string>
-    <string name="toast_fav">Défini avec succès comme site de démarrage.</string>
+    <string name="toast_fav">Successfully set as favorite.</string>
     <!-- Whitelist -->
     <string name="whitelist_menu_clear">Effacer</string>
     <string name="whitelist_edit_hint">Domaine</string>
     <string name="whitelist_add">Ajouté</string>
     <!-- Dialog help -->
     <string name="dialogHelp_tipTitle">Tips</string>
-    <string name="dialogHelp_tipText">        &lt;b&gt;Start site&lt;/b&gt;&lt;br&gt;
+    <string name="dialogHelp_tipText">        &lt;b&gt;Favorite&lt;/b&gt;&lt;br&gt;
         You can decide which site loads when \"FOSS Browser\" starts: By long pressing an entry in the
         overview (Startsite, Bookmarks, History) you can choose it. Over the menu of the overview you can also set
-        a blank start site.&lt;br&gt;&lt;br&gt;
+        a blank favorite.&lt;br&gt;&lt;br&gt;
 
         &lt;b&gt;Menus and dialogs&lt;/b&gt;&lt;br&gt;
         All menus and dialogs are opened at the bottom of the screen. If the dialog is large you will first see only
