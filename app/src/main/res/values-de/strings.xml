@@ -36,18 +36,18 @@
     <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">Delete</string>
     <string name="menu_delete_list">Delete list</string>
-    <string name="menu_edit">Edit</string>
-    <string name="menu_closeTab">Close tab</string>
-    <string name="menu_download">Open downloads</string>
-    <string name="menu_fav">Save as favorite</string>
-    <string name="menu_sc">Shortcut on home screen</string>
-    <string name="menu_sort">Sort by …</string>
-    <string name="menu_filter">Filter by …</string>
-    <string name="menu_blank">Blank favorite</string>
-    <string name="menu_share_screenshot">Share screenshot</string>
-    <string name="menu_share_link">Share link</string>
-    <string name="menu_save_screenshot">Save screenshot</string>
-    <string name="menu_save_home">Save at Home</string>
+    <string name="menu_edit">Bearbeiten</string>
+    <string name="menu_closeTab">Tab schließen</string>
+    <string name="menu_download">Downloads öffnen</string>
+    <string name="menu_fav">Als Favorit speichern</string>
+    <string name="menu_sc">Verknüpfung auf dem Homescreen</string>
+    <string name="menu_sort">Sortieren nach …</string>
+    <string name="menu_filter">Filtern nach …</string>
+    <string name="menu_blank">Leerer Favorit</string>
+    <string name="menu_share_screenshot">Bildschirmfoto teilen</string>
+    <string name="menu_share_link">Link teilen</string>
+    <string name="menu_save_screenshot">Bildschirmfoto teilen</string>
+    <string name="menu_save_home">Speichern</string>
     <string name="menu_save_bookmark">Save as bookmark</string>
     <string name="menu_save_as">Save as …</string>
     <string name="menu_save_pdf">Save as PDF</string>
@@ -230,8 +230,8 @@
     <string name="hint_database">This will delete all your current settings and data. Will you proceed?</string>
     <!-- Others setting -->
     <string name="setting_title_others">Others</string>
-    <string name="setting_title_license">License</string>
-    <string name="setting_summary_license">\"FOSS Browser\" is completely free (as in freedom) and open source.</string>
+    <string name="setting_title_license">Lizenz</string>
+    <string name="setting_summary_license">\"FOSS Browser\" ist völlig frei (wie in Freiheit) und Open Source.</string>
     <string name="setting_title_appSettings">App settings</string>
     <string name="setting_summary_appSettings">Open the system app settings for \"FOSS Browser\". There you can,
         depending on your Android version grant permissions, clear the app data and so on.</string>
