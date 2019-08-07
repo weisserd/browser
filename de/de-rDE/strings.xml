@@ -33,16 +33,17 @@
     <string name="menu_open_with">Link öffnen mit …</string>
     <string name="menu_share">Teilen</string>
     <string name="menu_quit">Beenden</string>
+    <string name="menu_openFav">Open Favorite</string>
     <string name="menu_delete">Löschen</string>
     <string name="menu_delete_list">Liste löschen</string>
     <string name="menu_edit">Bearbeiten</string>
     <string name="menu_closeTab">Tab schließen</string>
     <string name="menu_download">Öffne Downloads</string>
-    <string name="menu_fav">Als Startseite setzen</string>
+    <string name="menu_fav">Save as favorite</string>
     <string name="menu_sc">Verknüpfung auf Startschirm</string>
     <string name="menu_sort">Sortiere nach …</string>
     <string name="menu_filter">Filter …</string>
-    <string name="menu_blank">Leere Startseite</string>
+    <string name="menu_blank">Blank favorite</string>
     <string name="menu_share_screenshot">Bildschirmfoto teilen</string>
     <string name="menu_share_link">Link teilen</string>
     <string name="menu_save_screenshot">Bildschirmfoto speichern</string>
@@ -52,6 +53,7 @@
     <string name="menu_save_pdf">PDF speichern</string>
     <string name="menu_share_pdf">PDF teilen</string>
     <string name="menu_share_pdfToast">Fertig. Dateimanager öffnen, um die Datei zu teilen?</string>
+    <string name="menu_shareClipboard">Copy to clipboard</string>
     <string name="menu_other_searchSite">Suche auf Seite</string>
     <string name="menu_other_help">Hilfe</string>
     <!-- Dialog -->
@@ -285,26 +287,26 @@
     <string name="toast_unsecured">Die Internetseite benutzt eine unsichere Verbindung (\"http\"). Möchtest du versuchen
         eine gesicherte Verbindung herstellen (\"https\")?</string>
     <string name="toast_backup">Daten sichern? Das überschreibt die alte Sicherung.</string>
-    <string name="toast_fav">Erfolgreich als Startseite gesetzt.</string>
+    <string name="toast_fav">Successfully set as favorite.</string>
     <!-- Whitelist -->
     <string name="whitelist_menu_clear">Löschen</string>
     <string name="whitelist_edit_hint">Domain</string>
     <string name="whitelist_add">Hinzufügen</string>
     <!-- Dialog help -->
     <string name="dialogHelp_tipTitle">Tipps</string>
-    <string name="dialogHelp_tipText">        &lt;b&gt;Startseite&lt;/b&gt;&lt;br&gt;
-        Du kannst festlegen, welche Internetseite beim Start von \"FOSS Browser\" geladen wird: Du kannst jeden Eintrag
-        aus der Übersicht (Startseite, Lesezeichen, Verlauf) durch langes Drücken auswählen. Über das Menü in der Übersicht
-        kannst du außerdem eine leere Startseite festlegen.&lt;br&gt;&lt;br&gt;
+    <string name="dialogHelp_tipText">        &lt;b&gt;Favorite&lt;/b&gt;&lt;br&gt;
+        You can decide which site loads when \"FOSS Browser\" starts: By long pressing an entry in the
+        overview (Startsite, Bookmarks, History) you can choose it. Over the menu of the overview you can also set
+        a blank favorite.&lt;br&gt;&lt;br&gt;
 
-        &lt;b&gt;Menüs und Dialoge&lt;/b&gt;&lt;br&gt;
-        Alle Menüs und Dialoge öffnen sich am unteren Bildschirmrand. Bei größeren  Dialogen öffnet sich dabei zuerst nur
-        der obere Teil. Wenn du diesen nach oben ziehst, wird der untere Teil sichtbar.&lt;br&gt;
-        Sie lassen sich durch die Zurücktaste, durch nach unten Wischen oder einen Klick außerhalb schließen.&lt;br&gt;&lt;br&gt;
+        &lt;b&gt;Menus and dialogs&lt;/b&gt;&lt;br&gt;
+        All menus and dialogs are opened at the bottom of the screen. If the dialog is large you will first see only
+        the upper part. If you swipe it up, the rest will get visible.&lt;br&gt;
+        You can close them by pressing the back button, swiping them down or by clicking outside&lt;br&gt;&lt;br&gt;
 
-        &lt;b&gt;Langes drücken&lt;/b&gt;&lt;br&gt;
-        Wenn du das Menü-Icon oder den \"Navigationskopf\" lange drückst, öffnen sich die \"Schnelleinstellungen\". Wenn
-        du das Lesezeichen-Icon lange drückst, öffnet sich der Filterdialog.
+        &lt;b&gt;Long press&lt;/b&gt;&lt;br&gt;
+        If you long press the menu icon or the \"Navigation button\", the \"Fast toggle dialog\" will show. If you long
+        press the \"Bookmark icon\", the \"Filter dialog\" will show.
     </string>
     <string name="dialogHelp_overviewTitle">Übersicht</string>
     <string name="dialogHelp_overviewText">        Die \"Übersicht\" besteht aus zwei Teilen (Tabvorschau und persönliche Inhalte). Sie verfügt über ein eigenes Menü und
