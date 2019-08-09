@@ -33,8 +33,8 @@
     <string name="menu_open_with">Open link with …</string>
     <string name="menu_share">Share</string>
     <string name="menu_quit">Quit</string>
-    <string name="menu_openFav">Open Favorite</string>
-    <string name="menu_delete">Delete</string>
+    <string name="menu_openFav">Favoriten öffnen</string>
+    <string name="menu_delete">Löschen</string>
     <string name="menu_delete_list">Delete list</string>
     <string name="menu_edit">Bearbeiten</string>
     <string name="menu_closeTab">Tab schließen</string>
